@@ -30,4 +30,5 @@ To build and run the app, you'll need to have Android Studio installed.
 
 ## Screenshots
 
-*(Placeholder for screenshots of the app in action)*
+![1CE1999A-CB60-49E2-A12E-0CCBA847CCCA](https://github.com/user-attachments/assets/3ded5b57-4029-4ef4-b16e-ebd2c0c55f42)
+

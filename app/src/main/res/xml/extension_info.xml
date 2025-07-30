@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    displayName="Karoo-CGM"
+    icon="@drawable/ic_launcher_foreground"
+    id="karoo-cgm"
+    scansDevices="false">
+    <DataType
+        typeId="glucose"
+        description="Glucose"
+        displayName="Glucose"
+        icon="@drawable/glucose_24px" />
+</ExtensionInfo>
